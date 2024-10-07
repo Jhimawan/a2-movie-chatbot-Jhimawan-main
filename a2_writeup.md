@@ -12,7 +12,7 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-Trying to implement and understand the percentage assertions. I realize that if you focus on each assertion one by one, it is less confusing than trying to do it all at once.
+Trying to implement and understand the percentage assertions. I realize that if you focus on each assertion one by one, it is less confusing than trying to do it all at once.   
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
